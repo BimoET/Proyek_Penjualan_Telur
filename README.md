@@ -1,8 +1,8 @@
-# 🌟 UAS Kelompok 1 🌟
+# 🌟 UAS Kelompok 2 🌟
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
-  - 📘 Dokumentasi Awal Proyek Pengembangan Desian & Pemrograman Web.pdf
+  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
   - 📙 Fitur Database[1].pdf
   - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
   - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
@@ -29,8 +29,8 @@ For detailed documentation, refer to the files linked below (written in Indonesi
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
 |-------------------|------------------------------------------------|
-| **Ameilia Candra**  | [🌐 Profile](https://github.com/AmeliaCandra21) |
-| **Pandu Sagalang**      | [🌐 Profile](https://github.com/PanduSagalang)    |
+| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
 
 ---
 
@@ -48,7 +48,7 @@ We hope this repository provides a clear understanding of our project. 😊
 ## 🚀 How to Use
 1. Clone this repository locally:
    ```bash
-   git clone https://github.com/Proyek_Penjualan-Telur/UAS_Kelompok1.git
+   git clone https://github.com/AbidRafiul/UAS_Kelompok2.git
    ```
 2. Open the document files in the "Dokumen UAS" folder.
 3. Follow the system usage manual for further information.
