@@ -2,12 +2,22 @@
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
-  - 📘 Folder Query
-  - 📙 Folder Gambaar
-  - 📗 Folder js
-  - 📕 Folder Vendor
-- **Folder Basic** 📁
-  - 🔧 Codingan composer
+  - 📘 
+  - 📙
+  - 📗
+  - 📕 
+- **Folder Query** 📁
+  - 🔧 pengguna.php
+  - **Folder Gambar** 📁
+  - 🔧 File Gambar
+  -  **Folder js** 📁
+  - 🔧 script.js
+  - **Folder Vendor** 📁
+  - 🔧 composer
+  - 🔧 phpmailer
+  - 🔧 autoload.php
+  - **Folder Coding** 📁
+  - 🔧 fitur fitur website
 
 ---
 
@@ -43,7 +53,7 @@ We hope this repository provides a clear understanding of our project. 😊
 ## 🚀 How to Use
 1. Clone this repository locally:
    ```bash
-   git clone https://github.com/BimoET/UAS_Kelompok2.git
+   git clone https://github.com/BimoET/Proyek_Penjualan_Telur.git
    ```
 2. Open the document files in the "Dokumen UAS" folder.
 3. Follow the system usage manual for further information.
