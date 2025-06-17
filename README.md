@@ -20,8 +20,8 @@ Repositori ini berisi file dan folder utama yang digunakan dalam pengembangan ap
 - **📄 File PHP (Frontend & Backend):**
   - `beranda.php`, `index.php`, `dashboard.php`, dll.
   - Manajemen produk: `tambah-produk.php`, `edit-produk.php`, `manajemen_produk.php`
-  - Sistem pembayaran: `pembayaran1.php`, `proses_pembayaran.php`, `verifikasi_otp.php`
-  - Autentikasi: `login.php`, `logout.php`, `ganti_password.php`, `lupapassword.php`
+  - Sistem pembayaran: `pembayaran1.php`, `proses_pembayaran.php`
+  - Autentikasi: `login.php`, `logout.php`, `ganti_password.php`, `lupapassword.php `,  `verifikasi_otp.php`
 
 - **📄 File CSS:**
   - `global.css`, `style.css`, `profile.css`
@@ -31,7 +31,7 @@ Repositori ini berisi file dan folder utama yang digunakan dalam pengembangan ap
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Bahasa yang Digunakan
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP (Native)
 - **Database**: MySQL
@@ -62,7 +62,7 @@ Dokumentasi sistem tersedia dalam bentuk file dan folder berikut:
    git clone https://github.com/BimoET/Proyek_Penjualan_Telur.git
    ```
 2. Jalankan XAMPP, dan letakkan file di dalam folder `htdocs`.
-3. Import database (jika tersedia) ke phpMyAdmin.
+3. Import database ke phpMyAdmin.
 4. Buka `http://localhost/Proyek_Penjualan_Telur` melalui browser.
 5. Login menggunakan akun yang telah dibuat atau register jika tersedia.
 
@@ -71,7 +71,7 @@ Dokumentasi sistem tersedia dalam bentuk file dan folder berikut:
 ## 💡 Deskripsi Singkat
 Repositori ini merupakan hasil proyek Ujian Akhir Semester dari **Kelompok 1**. Aplikasi ini dirancang untuk mengelola sistem penjualan telur secara digital, termasuk fitur:
 - Manajemen produk dan keranjang
-- Sistem checkout dan verifikasi OTP
+- Sistem checkout 
 - Otentikasi pengguna
 - Dashboard admin dan pelanggan
 
