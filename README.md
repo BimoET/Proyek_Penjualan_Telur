@@ -19,8 +19,6 @@
   - **Folder Coding** 📁
   - 🔧 fitur fitur website
 
----
-
 ## Tech Stack
 ---
 
