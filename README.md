@@ -1,5 +1,5 @@
 
-# 🌟 UAS Kelompok 1 – Aplikasi Penjualan Telur 🌟
+# 🌟 UAS Kelompok 1 – Website Penjualan Telur 🌟
 
 ## 📁 Struktur Proyek
 Repositori ini berisi file dan folder utama yang digunakan dalam pengembangan aplikasi penjualan telur berbasis web.
